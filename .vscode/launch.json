@@ -1,0 +1,11 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "ERP Compra e Venda",
+            "request": "launch",
+            "mainClass": "principal.Main"
+        }
+    ]
+}
